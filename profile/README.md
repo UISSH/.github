@@ -1,12 +1,22 @@
-## Hi there 👋
+## Feature
+- One-click deployment of LNMP
+- Adding websites and enabling SSL
+- File browsing and file code highlight editing
+- Database management and PHPMyAdmin
+- Terminal access
+## Deploy
 
-<!--
+> Only supports newly created initial systems of Debian 11
 
-**Here are some ideas to get you started:**
+One-click deployment using [this script]('https://github.com/UISSH/install-script')
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Screenshot 
+
+![001_overview](./screenshot/001_overview.png)
+![002_overview](./screenshot/002_overview.png)
+![003_website](./screenshot/003_website.png)
+![004_filebrowser](./screenshot/004_filebrowser.png)
+![003_website](./screenshot/005_nginx_config.png)
+![003_website](./screenshot/006_terminal.png)
+
+
