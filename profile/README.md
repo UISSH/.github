@@ -12,11 +12,11 @@ One-click deployment using [this script]('https://github.com/UISSH/install-scrip
 
 ## Screenshot 
 
-![001_overview](./screenshot/001_overview.png)
-![002_overview](./screenshot/002_overview.png)
-![003_website](./screenshot/003_website.png)
-![004_filebrowser](./screenshot/004_filebrowser.png)
-![003_website](./screenshot/005_nginx_config.png)
-![003_website](./screenshot/006_terminal.png)
+![001_overview](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/001_overview.png)
+![002_overview](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/002_overview.png)
+![003_website](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/003_website.png)
+![004_filebrowser](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/004_filebrowser.png)
+![003_website](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/005_nginx_config.png)
+![003_website](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/006_terminal.png)
 
 
