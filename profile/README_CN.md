@@ -9,7 +9,7 @@
 
 > 仅支持新创建 Debian 11 的初始系统
 
-使用 [此脚本]('https://github.com/UISSH/install-script') 一键部署
+使用 [此脚本](https://github.com/UISSH/install-script) 一键部署
 
 ## 截图 
 

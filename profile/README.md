@@ -8,7 +8,7 @@
 
 > Only supports newly created initial systems of Debian 11
 
-One-click deployment using [this script]('https://github.com/UISSH/install-script')
+One-click deployment using [this script](https://github.com/UISSH/install-script)
 
 ## Screenshot 
 
