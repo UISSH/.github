@@ -19,5 +19,5 @@ One-click deployment using [this script](https://github.com/UISSH/install-script
 ![005_nginx_config](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/005_nginx_config.png)
 ![006_terminal](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/006_terminal.png)
 ![007_terminal](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/007_terminal.png)
-
+![008_ftp_sever](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/008_ftp_server.png)
 
