@@ -3,21 +3,17 @@
 - Adding websites and enabling SSL
 - File browsing and file code highlight editing
 - Database management and PHPMyAdmin
-- Terminal access
+- Terminal management
+- Crontab management
+- Firewall management
+- FTP management(support mount S3, support SFTP)
 ## Deploy
 
-> Only supports newly created initial systems of Debian 11
+> Only supports newly created initial systems of Debian 11, Ubuntu 22.04
 
 One-click deployment using [this script](https://github.com/UISSH/install-script)
 
-## Screenshot 
+## Video 
 
-![001_overview](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/001_overview.png)
-![002_overview](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/002_overview.png)
-![003_website](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/003_website.png)
-![004_filebrowser](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/004_filebrowser.png)
-![005_nginx_config](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/005_nginx_config.png)
-![006_terminal](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/006_terminal.png)
-![007_terminal](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/007_terminal.png)
-![008_ftp_sever](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/008_ftp_server.png)
+[![New CloudPanel UISSH](https://i.ytimg.com/vi/AycaJbuLUto/hqdefault.jpg)](https://www.youtube.com/watch?v=AycaJbuLUto)
 
